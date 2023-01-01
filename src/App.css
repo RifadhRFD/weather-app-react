@@ -1,0 +1,26 @@
+  /* design weather app*/
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Montseratt',sans-serif;
+}
+
+.app{
+  background-image: url('./assets/cold-bg.jpg');
+  background-size: cover;
+  background-position: bottom;
+
+}
+
+.app-warm{
+  background-image: url('./assets/warm-bg.jpg');
+}
+
+main{
+  min-height: 100vh;
+}
