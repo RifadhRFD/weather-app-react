@@ -3,7 +3,7 @@ import './App.css';
 
 const api = {
   key: "dc75625ce33317bad2a1130af7d7b949",
-  base: "http://api.openweathermap.org/data/2.5/"
+  base: "https://api.openweathermap.org/data/2.5/"
 }
 
 function App() {
